@@ -1,1 +1,2 @@
-om@odisha:~$ building things nobody sees until they stop working
+// CS student from Odisha
+// Building things nobody sees until they stop working.
